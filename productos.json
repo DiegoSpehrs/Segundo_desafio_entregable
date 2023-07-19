@@ -1,0 +1,32 @@
+[
+    {
+        "newProduct": {
+            "id": 1,
+            "title": "producto prueba",
+            "description": "este es un producto prueba",
+            "price": 200,
+            "thumbnail": "Sin imagen",
+            "code": "abc123",
+            "stock": 25
+        },
+        "id": 1
+    },
+    {
+        "0": "p",
+        "1": "r",
+        "2": "o",
+        "3": "d",
+        "4": "u",
+        "5": "c",
+        "6": "t",
+        "7": "o",
+        "8": " ",
+        "9": "p",
+        "10": "r",
+        "11": "u",
+        "12": "e",
+        "13": "b",
+        "14": "a",
+        "id": 2
+    }
+]
